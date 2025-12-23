@@ -1,0 +1,74 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Archivos de resultados (Excel con datos sensibles)
+resultados/
+*.xlsx
+*.csv
+*.json
+
+# Logs
+*.log
+*.out
+
+# Entorno virtual
+env/
+ENV/
+venv/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Archivos temporales de sistema
+*.tmp
+.cache/
+
+# Credenciales y configuración local
+.env
+.env.local
+credentials.json
+config.local.py
+
+# ChromeDriver y navegadores
+chromedriver
+*.exe
+
+# Archivos de caché de Playwright
+.playwright/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Claude Code
+.claude/
