@@ -22,10 +22,11 @@ wheels/
 *.egg
 
 # Archivos de resultados (Excel con datos sensibles)
-resultados/
-*.xlsx
-*.csv
-*.json
+# NOTA: Comentado temporalmente para subir resultados a repo privado
+# resultados/
+# *.xlsx
+# *.csv
+# *.json
 
 # Logs
 *.log
@@ -87,4 +88,5 @@ chatbot-platform/web-interface/node_modules/
 chatbot-platform/web-interface/.env.local
 
 # Scraper results (datos sensibles)
-scraper/results/
+# NOTA: Comentado temporalmente para subir resultados a repo privado
+# scraper/results/
