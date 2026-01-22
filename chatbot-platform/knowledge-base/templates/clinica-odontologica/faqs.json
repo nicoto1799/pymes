@@ -1,0 +1,86 @@
+{
+  "clinic_type": "odontologia",
+  "version": "1.0",
+  "last_updated": "2026-01-02",
+  "description": "FAQs base para clínicas odontológicas - Personalizar por cada cliente",
+  "faqs": [
+    {
+      "id": "faq_001",
+      "question": "¿Cuánto cuesta una limpieza dental?",
+      "answer": "El costo de una limpieza dental profesional (profilaxis) es de [PRECIO] COP. Incluye:\n- Remoción de placa y sarro\n- Pulido dental\n- Aplicación de flúor\n- Revisión general\n\nDuración aproximada: 45-60 minutos.\n\n¿Te gustaría agendar una cita? 😊",
+      "keywords": ["precio", "limpieza", "profilaxis", "cuánto cuesta", "costo"],
+      "category": "pricing"
+    },
+    {
+      "id": "faq_002",
+      "question": "¿Cuál es el horario de atención?",
+      "answer": "Nuestro horario de atención es:\n\n📅 Lunes a Viernes: 8:00 AM - 6:00 PM\n📅 Sábados: 9:00 AM - 2:00 PM\n📅 Domingos y festivos: Cerrado\n\n¿En qué horario te gustaría agendar?",
+      "keywords": ["horario", "hora", "cuándo", "abierto", "cerrado", "atienden"],
+      "category": "hours"
+    },
+    {
+      "id": "faq_003",
+      "question": "¿Dónde están ubicados?",
+      "answer": "Estamos ubicados en:\n\n📍 [DIRECCIÓN COMPLETA]\n[CIUDAD], [BARRIO]\n\nReferencias: [PUNTOS DE REFERENCIA]\n\nPuedes llegar en:\n🚌 Transporte público: [RUTAS]\n🚗 Parqueadero disponible\n\n¿Necesitas que te envíe la ubicación en Google Maps?",
+      "keywords": ["ubicación", "dirección", "dónde", "llegar", "quedan", "maps"],
+      "category": "location"
+    },
+    {
+      "id": "faq_004",
+      "question": "¿Aceptan seguros médicos o EPS?",
+      "answer": "[PERSONALIZAR SEGÚN CLÍNICA]\n\nOpción A (Si aceptan):\n✅ Sí, trabajamos con los siguientes seguros:\n- Sura\n- Sanitas\n- Compensar\n- [OTROS]\n\nOpción B (Si no aceptan):\nNo trabajamos directamente con seguros, pero emitimos facturas detalladas para que puedas reclamar el reembolso con tu EPS o seguro privado.\n\n💳 También ofrecemos planes de financiación.",
+      "keywords": ["seguro", "eps", "sura", "sanitas", "cobertura", "póliza"],
+      "category": "payment"
+    },
+    {
+      "id": "faq_005",
+      "question": "¿Cómo puedo agendar una cita?",
+      "answer": "Agendar es muy fácil! Tienes 3 opciones:\n\n1️⃣ Por WhatsApp: Escríbeme aquí mismo y te ayudo a buscar disponibilidad\n2️⃣ Por teléfono: [NÚMERO DE TELÉFONO]\n3️⃣ En línea: [LINK DE AGENDAMIENTO SI EXISTE]\n\n¿Qué servicio necesitas y para cuándo te gustaría la cita?",
+      "keywords": ["agendar", "cita", "turno", "reservar", "apartar", "sacar"],
+      "category": "appointment"
+    },
+    {
+      "id": "faq_006",
+      "question": "¿Qué servicios ofrecen?",
+      "answer": "Ofrecemos servicios odontológicos completos:\n\n🦷 Odontología General:\n- Limpieza dental\n- Calzas (resinas)\n- Extracciones\n- Tratamientos de conducto\n\n✨ Estética Dental:\n- Blanqueamiento\n- Carillas\n- Diseño de sonrisa\n\n🦷 Ortodoncia:\n- Brackets metálicos\n- Brackets estéticos\n- Invisalign\n\n🦷 Especialidades:\n- [LISTAR SEGÚN CLÍNICA]\n\n¿Qué servicio te interesa?",
+      "keywords": ["servicios", "qué hacen", "tratamientos", "ofrecen", "especialidades"],
+      "category": "services"
+    },
+    {
+      "id": "faq_007",
+      "question": "¿Atienden emergencias dentales?",
+      "answer": "Sí, atendemos emergencias dentales! 🚨\n\n📞 Durante horario de atención:\nLlama al [TELÉFONO] o ven directamente\n\n⏰ Fuera de horario:\nEnvía WhatsApp con tu emergencia, revisamos mensajes cada hora\n\nSe considera emergencia:\n- Dolor intenso\n- Trauma o fractura dental\n- Sangrado que no para\n- Infección o inflamación severa\n\n¿Qué tipo de emergencia tienes?",
+      "keywords": ["emergencia", "urgencia", "dolor", "urgente", "ahora", "ya"],
+      "category": "emergency"
+    },
+    {
+      "id": "faq_008",
+      "question": "¿Cuánto cuesta una ortodoncia?",
+      "answer": "Los costos de ortodoncia varían según el tipo:\n\n🦷 Brackets Metálicos: desde [PRECIO] COP\n✨ Brackets Estéticos: desde [PRECIO] COP\n💎 Invisalign: desde [PRECIO] COP\n\nIncluye:\n- Valoración inicial\n- Radiografías\n- Brackets/alineadores\n- Controles mensuales durante [X] meses\n\n💳 Planes de financiación disponibles\n\n¿Te gustaría agendar una valoración gratuita?",
+      "keywords": ["ortodoncia", "brackets", "invisalign", "frenillos", "precio ortodoncia"],
+      "category": "pricing"
+    },
+    {
+      "id": "faq_009",
+      "question": "¿Qué debo hacer antes de una extracción?",
+      "answer": "Antes de una extracción dental:\n\n✅ Sí puedes:\n- Comer normal antes (no ayuno)\n- Tomar tus medicamentos habituales\n- Venir acompañado (recomendado)\n\n❌ Evita:\n- Alcohol 24h antes\n- Fumar el día de la extracción\n- Aspirina 7 días antes (usar acetaminofén)\n\n📋 Trae:\n- Exámenes si los tienes\n- Lista de medicamentos que tomas\n\n¿Tienes alguna duda específica sobre tu extracción?",
+      "keywords": ["preparación extracción", "antes extracción", "qué llevar", "ayuno"],
+      "category": "pre_procedure"
+    },
+    {
+      "id": "faq_010",
+      "question": "¿Qué cuidados debo tener después de una extracción?",
+      "answer": "Después de una extracción dental:\n\n🕐 Primeras 24 horas:\n- Morder gasa por 30-60 min\n- NO escupir ni enjuagar\n- Aplicar hielo externo (15 min/hora)\n- Dieta blanda y fría\n- NO fumar ni alcohol\n\n💊 Medicamentos:\n- Tomar analgésico recetado\n- Antibiótico si fue indicado\n\n⚠️ Llama si tienes:\n- Sangrado abundante >2 horas\n- Dolor que no mejora\n- Fiebre >38°C\n- Inflamación excesiva día 3+\n\n¿Necesitas algo más?",
+      "keywords": ["después extracción", "cuidados post", "recuperación", "sangrado"],
+      "category": "post_procedure"
+    }
+  ],
+  "instructions_for_customization": {
+    "step_1": "Reemplazar [PRECIO] con precios reales de la clínica",
+    "step_2": "Reemplazar [DIRECCIÓN COMPLETA], [CIUDAD], etc con datos reales",
+    "step_3": "Reemplazar [TELÉFONO] con número de contacto",
+    "step_4": "Personalizar según seguros que acepte la clínica",
+    "step_5": "Ajustar horarios según disponibilidad real",
+    "step_6": "Agregar servicios específicos que ofrezca cada clínica"
+  }
+}
