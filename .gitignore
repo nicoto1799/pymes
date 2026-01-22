@@ -70,5 +70,21 @@ chromedriver
 .coverage
 htmlcov/
 
-# Claude Code
-.claude/
+# Claude Code (ignorar history pero no comandos/agentes)
+.claude/history/
+.claude/.logs/
+
+# n8n
+n8n/.n8n/
+n8n/postgres-data/
+chatbot-platform/n8n/.env
+chatbot-platform/n8n/.n8n/
+chatbot-platform/n8n/postgres-data/
+
+# Next.js (internal chat)
+chatbot-platform/web-interface/.next/
+chatbot-platform/web-interface/node_modules/
+chatbot-platform/web-interface/.env.local
+
+# Scraper results (datos sensibles)
+scraper/results/

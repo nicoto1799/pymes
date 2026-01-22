@@ -1,0 +1,9 @@
+# Environment variables (NEVER commit secrets!)
+.env
+
+# n8n data
+.n8n/
+
+# Logs
+*.log
+npm-debug.log*
